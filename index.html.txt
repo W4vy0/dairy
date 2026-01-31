@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>My Page</title>
+</head>
+<body>
+  <h1>Hello GitHub Pages</h1>
+  <p>사이트가 열렸어요 🎉</p>
+</body>
+</html>
